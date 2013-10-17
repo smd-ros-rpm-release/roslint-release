@@ -1,0 +1,8 @@
+ros-hydro-roslint (0.0.1-0raring) raring; urgency=high
+
+  * Basic initial release, with roslint_python, roslint_cpp, and roslint_custom macros included.
+  * pep8 and cpplint linters packaged-in.
+
+ -- Mike Purvis <mpurvis@clearpathrobotics.com>  Thu, 17 Oct 2013 04:00:00 -0000
+
+
