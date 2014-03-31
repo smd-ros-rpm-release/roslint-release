@@ -1,3 +1,22 @@
+## roslint (hydro) - 0.9.2-0
+
+User `mikepurvis@Mikes-MacBook-Pro-3.local` released the packages in the `roslint` repository into the `hydro` distro by running `/usr/local/bin/bloom-release --rosdistro hydro --track hydro roslint` on `Mon, 31 Mar 2014 15:50:17 -0000`
+
+The `roslint` package was released.
+
+Version of package(s) in repository `roslint`:
+- rosdistro version: `0.9.1-0`
+- old version: `0.9.1-0`
+- new version: `0.9.2-0`
+
+Versions of tools used:
+- bloom version: `0.5.2`
+- catkin_pkg version: `0.1.27`
+- rosdep version: `0.10.25`
+- rosdistro version: `0.3.4`
+- vcstools version: `0.1.33`
+
+
 ## roslint - 0.9.1-0
 
 User `administrator@vm-precise` released the packages in the `roslint` repository by running `/usr/bin/bloom-release --rosdistro indigo --track indigo roslint` on `Tue, 18 Feb 2014 17:30:54 -0000`
